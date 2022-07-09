@@ -14,7 +14,6 @@ function major(arr)
         }else{
             count--;
         }
-        
     }
     return prev;
 }
